@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kagebounshin
-- 👀 I’m interested in Football, Skateboard, Snowboard, Video Games!
 - 🌱 I’m currently a student at Code Institute.
 - 📫 How to reach me kristoffer-heiskanen@hotmail.com 
 
