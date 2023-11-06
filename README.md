@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Kagebounshin
-- 🌱 I’m currently a student at Code Institute.
+- 🌱 I've have a graduation from Code Institute.
+- Currently brushing up my skills at Codecadamy. 
 - 📫 How to reach me kristoffer-heiskanen@hotmail.com 
 
 <!---
